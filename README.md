@@ -38,5 +38,5 @@ This is a server-side web application built with **PHP (procedural)** and **MySQ
 
 ---
 
-## The link after deployment : carpoolapp.xo.je
+## The link after deployment : http://carpoolapp.xo.je/carpool/home.php
 
